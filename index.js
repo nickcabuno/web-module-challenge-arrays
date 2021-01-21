@@ -48,7 +48,7 @@ Use the copy function below to do the following:
 function copy(){
     return originalFlavors.slice();
    }
- copy();
+copy();
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
@@ -92,7 +92,7 @@ function addFlavor(){
   return newArray;
  }
  
- addFlavor()
+addFlavor()
 
 
  /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
@@ -129,9 +129,9 @@ Use the getFlavorByIndex function below to do the following:
 */
 
 function getFlavorByIndex(array, index){
-    return array[index];
+    return array[index]
   }
-  getFlavorByIndex()
+
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 As corporate wants to add more and more flavors to their lineup, they've realized that they need to remove flavors based on flavor name, 
